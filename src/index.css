@@ -17,6 +17,10 @@ ol, ul {
     margin-bottom: 10px;
 }
 
+.game-restart {
+    margin-top: 10px;
+}
+
 .square {
     background: #fff;
     border: 1px solid #999;
