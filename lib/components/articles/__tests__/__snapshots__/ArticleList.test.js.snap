@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList should render list correctly 1`] = `
+<div>
+  <div
+    className="article"
+  >
+    <div>
+      <b>
+        A
+      </b>
+    </div>
+    <div
+      className="author"
+    >
+      by 
+      <a
+        href="https://test.com"
+      >
+        X
+         
+        Y
+      </a>
+    </div>
+    <div
+      className="body"
+    >
+      AA
+    </div>
+  </div>
+  <div
+    className="article"
+  >
+    <div>
+      <b>
+        B
+      </b>
+    </div>
+    <div
+      className="author"
+    >
+      by 
+      <a
+        href="https://test.com"
+      >
+        X
+         
+        Y
+      </a>
+    </div>
+    <div
+      className="body"
+    >
+      BB
+    </div>
+  </div>
+</div>
+`;
